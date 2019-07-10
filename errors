@@ -1,0 +1,8 @@
+****Title : Error
+**Type**: **uncaught:exception -> Uncaught TypeError**
+Description: main.08c99acdfb1c60a29d63.js:20 Uncaught TypeError: Cannot read property 'distinctId' of null
+Source: main.js**
+Title: Error
+**Type**: **uncaught:exception -> Uncaught SyntaxError**
+Description: Uncaught SyntaxError: Unexpected identifier
+Source: analytics.js**
